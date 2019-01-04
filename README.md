@@ -5,14 +5,14 @@
 * [Udemy](https://www.udemy.com/) - Extensive interactive courses on all subjects, each course around $12
 * [Coursera](https://www.coursera.org/) - Free interactive courses from leading universities
 * [EdX](https://www.edx.org/) - Large collection of free interactive courses with option for paid certificate
-⋅⋅* Select “Self-Paced” in search to find courses available year-round, or enroll in time-limited courses to follow along with other learners
+  * Select “Self-Paced” in search to find courses available year-round, or enroll in time-limited courses to follow along with other learners
 * [FutureLearn](https://www.futurelearn.com/) - Collection of massive open online courses on range of subjects
 * [Udacity](https://www.udacity.com/) - Collection of free courses organized into paths with option for paid “nanodegrees”
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) - Selection of MIT courses with video-lectures, slides, problems, textbooks, etc
-⋅⋅* Less interactive than other online learning resources but often more comprehensive and always self-paced and free
+  * Less interactive than other online learning resources but often more comprehensive and always self-paced and free
 * [Codecademy](https://www.codecademy.com/) - Free lessons computer programming, web development, and data science across HTML, Python, Java, JavaScript, SQL, and more
 * [Data Camp](https://www.datacamp.com/home) - Selection of data science and coding courses
-⋅⋅* Freemium model with some intro content free, then $29 per month for everything
+  * Freemium model with some intro content free, then $29 per month for everything
 * [Stack Overflow](https://stackoverflow.com/) - Go-to help site for programmers, contains countless useful threads
 
 #### Which online course site is "best"? 
@@ -26,6 +26,8 @@ There is no clearly superior platform and many courses are cross-listed on sever
 * [Free Code Camp: Guide to Data Science with Python](https://medium.freecodecamp.org/a-path-for-you-to-learn-analytics-and-data-skills-bd48ccde7325)
 
 #### Anything to add to the lists above? Email us at: berkeley.discovery.scholars@gmail.com
+
+---
 
 # Where to Start: Absolute Beginners
 ### Never opened a coding program before? Have no fear! There have never been more beginner-friendly resources. 
