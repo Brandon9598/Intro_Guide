@@ -1,5 +1,5 @@
 # Intro Guide
-### Collection of online learning sites for data science and a complete "Where to Start" guide
+#### Collection of online learning sites for data science and a complete "Where to Start" guide
 
 ## Sites for finding online data science courses:
 * [Udemy](https://www.udemy.com/) - Extensive interactive courses on all subjects, each course around $12
@@ -32,7 +32,10 @@ There is no clearly superior platform and many courses are cross-listed on sever
 ---
 
 # Where to Start: Absolute Beginners
-### Never opened a coding program before? Have no fear! There have never been more beginner-friendly resources. 
+
+### Never opened a coding program before? 
+### Have no fear! There have never been more beginner-friendly resources. 
+
 ### Here's a quick guide on how to get started:
 
 ## Starting from Scratch:
